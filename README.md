@@ -1,5 +1,5 @@
 # WDM-Ex.No-9-Text-Preprocessing-on-Twitter-Data-using-Rapidminer
-**DATE:**<br>
+
 **AIM:**<br>
 To implement preprocessing technique on Twitter Data using Rapidminer<br>
 **Description:**<br>
@@ -27,6 +27,8 @@ e. Remove Numbers: Exclude numeric values from the text.
 
 **Output:**<br>
 
-<img width="1033" height="600" alt="image" src="https://github.com/user-attachments/assets/c60c2e05-50a9-4797-944c-2079739c0f4d" />
+<img width="1401" height="1007" alt="image" src="https://github.com/user-attachments/assets/f6ea0e75-803c-4fb5-86fc-8bc53288b70f" />
+
 
 **Result:**
+Preprocessing technique on Twitter Data using Rapidminer is implemented.
